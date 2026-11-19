@@ -1,0 +1,5 @@
+Git is a free and open source version control system used to track changes in code
+it helps developers manage and maintain diffrent versions of their projects.
+Git allows multiple developers to work on the same project simultaneoulsy.
+It help track changes ,revert mistakes and maintain project history.
+Github is cloud based platform where developers can store and share their Git repositories.
