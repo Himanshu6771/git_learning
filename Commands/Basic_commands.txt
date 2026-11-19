@@ -1,0 +1,8 @@
+Some basic commands of Git.
+1.ls -list command:returns the items of current directory
+2.cd -change directory:used to navigate in file and folders
+3.mkdir:used to create folders
+4.touch:used to create file
+5.rm-used to remove file
+6.rm -r:used to remove folders
+7.cat:used to view content of file
